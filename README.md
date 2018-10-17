@@ -1,6 +1,8 @@
 # Morse_Frase y viceversa
 Convierte una frase a código morse y viceversa
+
 Nombre:Noé Fernando Solís May
+
 e-mail:noesolism@hotmail.com
 
 Instrcciones:
